@@ -9,6 +9,10 @@
   "author": "otman_lahreche",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.7.0"
+    "jquery": "^3.7.0",
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.1"
   }
 }
